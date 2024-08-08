@@ -17,7 +17,7 @@
 
 ### ToDo
 
-- [ ] [User supplies the student roll no and the respective student & department details will be displayed.]()
-- [ ] [User supplies department name and pass out year such that individual student data for that particular department corresponding to that pass out year (if it exists) will be displayed.]()
+- [x] [User supplies the student roll no and the respective student & department details will be displayed.](./02.08.2024/)
+- [x] [User supplies department name and pass out year such that individual student data for that particular department corresponding to that pass out year (if it exists) will be displayed.](./02.08.2024/)
 - [ ] [List the top ranked (in terms of highest DGPA) student data (i.e roll no, name and pass out year) for a particular department where department name will be given as keyboard input.]()
 - [ ] [Display the total list of students (with roll no, name, department name and hod name who have obtained DGPA greater than a certain threshold value which is supplied as keyboard input. Also calculate the percentage of such students.]()
