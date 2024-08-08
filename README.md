@@ -1,6 +1,7 @@
 # java-assignment-24
 
-## ToDo - 22.07.2024
+## Assignment - 1
+### ToDo - 22.07.2024
 
 - [x] [Take keyboard input a string & check how many times it occurs in CLA](./22.07.2024/1/Main.java)
 - [x] [Check the frequency of occurence of each argument in CLA](./22.07.2024/2/Main.java)
@@ -8,7 +9,7 @@
 - [x] [Take one input string as keyboard input & check for paindrome.](./22.07.2024/4/Main.java)
 - [x] [If CLA is `GOVT COLLEGE OF ENGG AND CERAMIC TECH` then output is `GCECT`.](./22.07.2024/5/Main.java)
 
-## 02.08.2024 - ASSINGMENT(on nested class) - 1
+## 02.08.2024 - ASSINGMENT(on nested class) - 2
 
 - Create a `department class as outer class` with its data members department name and hod name. Provide constructor for initialization of these data members.
 - Now create the `inner class student` within this `outer class department`. Now add student class array of objects as the data member in the department class along with the earlier declared data members of department name and hod name.
